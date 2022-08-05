@@ -2,6 +2,8 @@
 
 Mysterious World is an Icon theme for Gnome, XFCE and Budgie DE.
 
+More colors coming soon!!!
+
 
 
 Screenshots
